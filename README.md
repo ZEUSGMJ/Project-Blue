@@ -53,6 +53,7 @@ ___
 |`uptime`|Shows how long the bot's been online.|
 |`changes`| View the changelogs of the bot!|
 |`docs`|Searches the Discord.Js docs and sends it in a nice embed.|
+|`npm`| A command that fetches information about an npm package.|
 
 ### 3) Moderation
 | Name | Description |

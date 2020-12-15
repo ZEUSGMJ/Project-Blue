@@ -106,7 +106,7 @@ ___
 ### How can you contact us?
 You can contact me via the below mentioned links.  
 
-![twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=for-the-badge&color=blue&link=https://twitter.com/ZEUSGMJ "Twitter") ![Discord](https://img.shields.io/badge/-Discord-%23909CFC?logo=discord&style=for-the-badge&link=https://discord.com/users/438054607571386378&logoColor=9cf "ZEUSGMJ") ![Support Server](https://img.shields.io/discord/762309429600583690?style=for-the-badge&link=https://discord.gg/Yb3DjCmk99 "Support Server") ![Github](https://img.shields.io/github/followers/ZEUSGMJ?logo=github&style=for-the-badge "Github")
+![twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&style=for-the-badge&color=blue&link=https://twitter.com/ZEUSGMJ "Twitter") ![Discord](https://img.shields.io/badge/-Discord-%23909CFC?logo=discord&style=for-the-badge&link=https://discord.com/users/438054607571386378&logoColor=9cf "ZEUSGMJ") ![Support Server](https://img.shields.io/discord/762309429600583690?label=Support&logo=discord&style=for-the-badge&link=https://discord.gg/Yb3DjCmk99 "Support Server") ![Github](https://img.shields.io/github/followers/ZEUSGMJ?logo=github&style=for-the-badge "Github")
 ___
 # Acknowledgements
 

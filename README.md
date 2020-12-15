@@ -1,4 +1,4 @@
-# Project Blue ![LICENSE](https://img.shields.io/github/license/ZEUSGMJ/Project-Blue?style=flat-square)
+# Project Blue
 
 ```yaml
 Project Blue is a simple in development Multi-purpose discord bot built on Discord.js. This bot offers some various commands. You can use "pb.help" to view those commands!

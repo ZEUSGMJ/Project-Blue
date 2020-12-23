@@ -15,8 +15,8 @@ The current prefix of the bot is `pb.`. You can customise the prefix or you can 
 
 - You can invite the bot by clicking [here](https://discord.com/oauth2/authorize?client_id=724213925767544893&scope=bot&permissions=519232)
 - List of Botlists where you can vote for my bot
+  - [top.gg](https://top.gg/bot/724213925767544893#/)
   - [discordbots.co](https://discordbots.co/bot/project-blue)
-  - ..to be added in other Bot lists.
 
 ##### Note: 
 If you have any questions, feel free to join the Support Server by clicking [here](https://discord.gg/Yb3DjCmk99).
